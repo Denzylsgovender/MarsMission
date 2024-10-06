@@ -12,12 +12,3 @@
 - **Assertions:** The simulation uses assertions to validate key conditions (fuel, distance, landing gear).
 - **Time Delays:** Time delays are added to simulate real-time mission phases.
 
-## **Getting Started**
-
-### **Prerequisites**
-
-To run this simulation, you will need:
-
-- Java installed (version 8 or higher)
-- A Java IDE (e.g., IntelliJ, Eclipse, VS Code) or command-line tools to compile and run the program
-
